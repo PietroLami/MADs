@@ -1,0 +1,12 @@
+**/.DS_Store
+MADsCore/.idea
+MADsCore/target
+MADsCore/MADs.jar
+MADsCore/project/target
+MADsCore/project/project
+MADsPlot/.idea
+MADsPlot/target
+MADsPlot/MADsPlot.jar
+MADsPlot/project/target
+MADsPlot/project/project
+MADsPlot/src/main/resources
